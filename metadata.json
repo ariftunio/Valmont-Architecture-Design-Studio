@@ -1,0 +1,6 @@
+{
+  "name": "Valmont Architecture & Design Studio",
+  "description": "An editorial, luxury architectural and interior design studio website featuring refined typography, warm neutral palette, bespoke projects, and client consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
